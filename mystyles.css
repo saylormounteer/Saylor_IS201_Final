@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(247, 232, 181);
+}
+
+
+h1{
+    font-weight: bold;
+    color:rgb(247, 232, 181);
+}
+
+.underline{
+    border-bottom: 2px white solid ;
+}
+
+ol{
+    font-style: italic;
+}
+ul{
+    font-style: normal;
+}
+h2{
+    border-bottom: 2px black solid;
+}
